@@ -1,13 +1,13 @@
-# qtum-opcodes-js
-The QTUM opcodes map
+# runebase-opcodes-js
+The RUNEBASE opcodes map
 
 ## Installation
 ``` bash
-npm install qtum-opcodes
+npm install runebase-opcodes
 ```
 
 ## Setup
 ### Node.js
 ``` javascript
-var ops = require('qtum-opcodes')
+var ops = require('runebase-opcodes')
 ```
